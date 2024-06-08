@@ -8,13 +8,17 @@ Overview
 
 The dataset covers the period between December 8, 2023, and April 30, 2024, and includes information on ticket sales, revenue, on-time performance, and more.
 
-Goals
-The main objectives for this project were to:
+Goals:
 
-Identify popular routes and peak travel times.
-Analyze revenue trends and performance by ticket types and classes.
-Diagnose factors contributing to on-time performance.
-Provide actionable insights to optimize service efficiency and enhance customer experience.
+     The main objectives for this project were to:
+     
+     Identify popular routes and peak travel times.
+
+     Analyze revenue trends and performance by ticket types and classes.
+     
+     Diagnose factors contributing to on-time performance.
+     
+     Provide actionable insights to optimize service efficiency and enhance customer experience.
 
 
 
