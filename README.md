@@ -1,4 +1,4 @@
-Decoding the Trip Purpose Paradox: National Rail Sales (Jan-Apr 2024)
+# Decoding the Trip Purpose Paradox: National Rail Sales (Jan-Apr 2024)
 
 
 Welcome to the Maven Rail Challenge project! This repository contains the analysis and vizualization in Power BI for my entry into the Maven Rail Challenge competition, hosted by Maven Analytics. 
