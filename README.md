@@ -1,4 +1,4 @@
-Maven Rail Challenge Project
+Decoding the Trip Purpose Paradox: National Rail Sales (Jan-Apr 2024)
 
 
 Welcome to the Maven Rail Challenge project! This repository contains the analysis and vizualization in Power BI for my entry into the Maven Rail Challenge competition, hosted by Maven Analytics. 
@@ -37,4 +37,4 @@ Key conclusions drawn from the analysis include:
 
      Railcard Insights: Railcards contributed modestly to revenue growth, with railcard holders generating a total of £168,224.00.
 
-     Trip Purpose Paradox: Despite fewer weekend journeys compared to weekdays, a majority of trips (62.39%) served purposes other than commuting to work, highlighting a potential discrepancy in travel behavior.
+     Trip Purpose Paradox: Peak travel times in the morning (34.7%) and afternoon (29.42%) suggest commuting, but when examining the trip purpose, durations often exceed two hours, showing that 62.39% of journeys serve purposes other than commuting to work. This highlights the complexity of travel behavior and the need for nuanced data analysis.
