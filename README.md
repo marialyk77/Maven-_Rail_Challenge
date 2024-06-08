@@ -8,6 +8,19 @@ Overview
 
 The dataset covers the period between December 8, 2023, and April 30, 2024, and includes information on ticket sales, revenue, on-time performance, and more.
 
+BasiC KPI's: 
+          Total Revenue: £741,921
+          
+          Total Ticket Sales: 31.653
+          
+          Total Routes : 65
+          
+          Total Disrupted Journeys: 4.172
+          
+          Total Refunded Journeys: 1.118
+
+
+
 Goals:
 
      The main objectives for this project were to:
