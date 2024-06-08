@@ -51,4 +51,9 @@ The dataset covers the period between December 8, 2023, and April 30, 2024, and 
 
      Railcard Insights: Railcards contributed modestly to revenue growth, with railcard holders generating a total of £168,224.00.
 
-     Trip Purpose Paradox: Peak travel times in the morning (34.7%) and afternoon (29.42%) suggest commuting, but when examining the trip purpose, durations often exceed two hours, showing that 62.39% of journeys serve purposes other than commuting to work. This highlights the complexity of travel behavior and the need for nuanced data analysis.
+
+## Trip Purpose Paradox: 
+
+          Peak travel times in the morning (34.7%) and afternoon (29.42%) suggest commuting, but when examining the trip purpose, 
+          durations often exceed two hours, showing that 62.39% of journeys serve purposes other than commuting to work. 
+          This highlights the complexity of travel behavior and the need for nuanced data analysis.
