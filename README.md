@@ -3,12 +3,13 @@
 
 Welcome to the Maven Rail Challenge project! This repository contains the analysis and vizualization in Power BI for my entry into the Maven Rail Challenge competition, hosted by Maven Analytics. 
 
-Overview
+## Overview
 
 
 The dataset covers the period between December 8, 2023, and April 30, 2024, and includes information on ticket sales, revenue, on-time performance, and more.
 
-BasiC KPI's: 
+## BasiC KPI's: 
+
           Total Revenue: £741,921
           
           Total Ticket Sales: 31.653
@@ -21,7 +22,7 @@ BasiC KPI's:
 
 
 
-Goals:
+## Goals:
 
      The main objectives for this project were to:
      
@@ -36,7 +37,7 @@ Goals:
 
 
 
-Key conclusions drawn from the analysis include:
+## Key conclusions drawn from the analysis include:
 
      Ticket Class Analysis: The majority of ticket sales are for the Standard class, indicating a preference among customers for this class.
 
