@@ -4,7 +4,10 @@ Maven Rail Challenge Project
 Welcome to the Maven Rail Challenge project! This repository contains the analysis and vizualization in Power BI for our entry into the Maven Rail Challenge competition.
 
 Overview
-Our project was developed for the Maven Rail Challenge, with the goal of creating an exploratory dashboard to analyze railway operations data. The dataset covers the period between December 8, 2023, and April 30, 2024, and includes information on ticket sales, revenue, on-time performance, and more.
+
+The project was developed for the Maven Rail Challenge, hosted by Maven Analytics with the goal of creating an exploratory dashboard to analyze railway operations data. 
+
+The dataset covers the period between December 8, 2023, and April 30, 2024, and includes information on ticket sales, revenue, on-time performance, and more.
 
 Goals
 The main objectives for this project were to:
